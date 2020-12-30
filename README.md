@@ -1,4 +1,4 @@
-# Foodie(food delivery)
+# ROSMIK (food delivery)
 
 A simple raw PHP & Javascript based website that is similar to foodpanda. Users can order food online from restaurants from different locations. And the admin can check out all the processes like users, deliveries, total sales etc.
 <p align="center">
@@ -62,17 +62,4 @@ Deployment online:
 
 * [PHP](http://php.net/) - The backend was developed using PHP
 * [JavaScript](https://www.javascript.com/) - For front end, we also used Jquery, Bootstrap
-
-## Authors
-
-* **A. K. M. Saiful Islam** - *Initial work* - [adar2378](https://github.com/adar2378)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
-
-## Acknowledgments
-
-* It was a collaborative project with my classmates, hatts off to them for putting things together. :blush:
-* And learned a lot from various youtube videos :relaxed:
 
